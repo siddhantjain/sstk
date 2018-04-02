@@ -21,7 +21,7 @@ Confirm above works using `node -v` at the terminal.
 
 2. Build and run server
 ```
-  cd stk
+  cd sstk
   ./build.sh
   cd server
   ./run.sh
